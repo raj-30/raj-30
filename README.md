@@ -56,7 +56,7 @@ Here are a few projects that showcase my skills and creativity:
 ---
 
 ### 🌐 Let's Connect!
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat&logo=linkedin&logoColor=white)]([https://linkedin.com/in/raj-gajjar](https://www.linkedin.com/in/raj-gajjar-726a232bb?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=flat&logo=Instagram&logoColor=white)](https://instagram.com/gajjar._.raj)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/raj-gajjar-726a232bb/]) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=flat&logo=Instagram&logoColor=white)](https://instagram.com/gajjar._.raj)  
 
 ---
 <details>
