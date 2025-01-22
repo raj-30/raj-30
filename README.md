@@ -34,7 +34,7 @@ Here are a few projects that showcase my skills and creativity:
   - **Real-time Updates**: Instant notifications for announcements and updates using Firebase.  
   - **Secure Access**: Role-based authentication for students, faculty, and admins.  
   Technologies used: JavaScript, Express.js, Firebase, and HTML5.  
-  [View Repository](#)
+  [View Repository](https://github.com/raj-30/campus_diaries-)
 
 
 - 🎨 **3D Blender Creations**  
