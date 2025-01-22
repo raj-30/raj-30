@@ -39,11 +39,10 @@ Here are a few projects that showcase my skills and creativity:
 
 - 🎨 **3D Blender Creations**  
   A collection of original 3D models and animations, focusing on realism and storytelling.  
-  [View Portfolio](#)
 
 - 🎥 **Cinematography Showcase**  
   Highlighting projects that demonstrate expertise in camera composition, color grading, and post-production.  
-  [Watch Videos](#)
+  Check out the instagra  page! [![Instagram](https://img.shields.io/badge/Instagram-%464646.svg?style=flat&logo=Instagram&logoColor=white)](https://instagram.com/gajjar._.raj) 
 
 ---
 
